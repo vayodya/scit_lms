@@ -1,0 +1,12 @@
+/app/nbproject/private/
+lib/
+plugins/
+vendors/
+app/tmp/
+.htaccess
+CONTRIBUTING.md
+build.properties
+build.xml
+favicon.ico
+index.php
+README.md

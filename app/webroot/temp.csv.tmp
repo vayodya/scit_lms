@@ -1,0 +1,24 @@
+"Employee ID","Employee Name","From Date","To Date","Leave Type","Leave Comment","Leave Time",Status,"Real Day(s)","Accept ID"
+4,M.C.Kannangara,2014-08-07,2014-08-07,casual,"Attend Sister's Registration. I will be available online after 4pm till night. ",fullday,pending,1,10
+4,M.C.Kannangara,2014-08-28,2014-08-28,casual,"going for Son's medical appointment.  will be available in the afternoon.",1sthalf,pending,0.5,10
+4,M.C.Kannangara,2014-09-04,2014-09-04,casual,"Attend a Wedding",fullday,pending,1,10
+4,"M. Chathura Kannangara",2014-09-26,2014-09-26,casual,Personal,1sthalf,pending,0.5,10
+4,"M. Chathura Kannangara",2014-10-15,2014-10-15,casual,"Will be going for a funeral",1sthalf,pending,0.5,10
+4,"M. Chathuraka Kannangara",2014-11-07,2014-11-07,casual,"Guys, I will be on leave due to health problems, But will be joining the meetings.",fullday,pending,1,10
+4,"M. Chathuraka Kannangara",2014-12-09,2014-12-09,casual,"Going for Doctor's appointment. I'm available on the afternoon.",1sthalf,pending,0.5,10
+4,"M. Chathuraka Kannangara",2014-12-10,2014-12-10,casual,"need to go to garage and police station for car damage insurance recovery. will be working in the afternoon.",1sthalf,pending,0.5,10
+4,"M. Chathuraka Kannangara",2014-12-18,2014-12-18,casual,Personal,fullday,pending,1,10
+4,"M. Chathuraka Kannangara",2015-02-02,2015-02-02,casual,"Planning to visit Anuradhapura. ",fullday,pending,1,10
+4,"M. Chathuraka Kannangara",2015-03-13,2015-03-13,casual,"Will not be available from 2pm - 4.30pm. But I Will be working  available at night.",2ndhalf,pending,0.5,10
+4,"M. Chathuraka Kannangara",2015-03-16,2015-03-16,annual,Personal,fullday,pending,1,10
+4,"M. Chathuraka Kannangara",2015-04-30,2015-04-30,casual,"Son's reading letters ceremony. Will be working second half till night.",1sthalf,pending,0.5,10
+4,"Chathuraka Kannangara",2015-06-16,2015-06-16,casual,personal,1sthalf,pending,0.5,10
+4,"Chathuraka Kannangara",2015-06-19,2015-06-19,casual,"Doctor's Appointment.",1sthalf,pending,0.5,10
+4,"Chathuraka Kannangara",2015-06-22,2015-06-22,casual,"Unable to come to office since l'm suffering from Fever. Will be online time to time to check status of the on going projects.",fullday,pending,1,10
+4,"Chathuraka Kannangara",2015-06-25,2015-06-25,sick,"High fever. I will not be available in the evening due to Dr. appointment.",fullday,pending,1,10
+4,"Chathuraka Kannangara",2015-08-04,2015-08-04,casual,"I will come to office or WFH depending on the time for the 2nd half.",1sthalf,pending,0.5,10
+4,"Chathuraka Kannangara",2015-08-27,2015-08-27,casual,"Attending a wedding in Gampaha. Will be available at night",fullday,pending,1,10
+4,"Chathuraka Kannangara",2015-09-21,2015-09-21,casual,"Wife convocation",2ndhalf,pending,0.5,10
+4,"Chathuraka Kannangara",2015-12-28,2015-12-28,casual,Personal,fullday,pending,1,10
+4,"Chathuraka Kannangara",2015-12-31,2015-12-31,annual,personal,fullday,pending,1,10
+4,"Chathuraka Kannangara",2016-03-21,2016-03-21,casual,"Mother not well. Hope to come online in afternoon. ",fullday,pending,1,10

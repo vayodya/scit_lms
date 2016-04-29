@@ -1,0 +1,162 @@
+#projectList_chosen {
+    margin-left: 120px;
+}
+
+
+.calendar-input-reset {
+    width: 14px; 
+    height: 14px;
+}
+
+.calendar-input-reset-container {
+    display: inline-block; 
+    padding-top: 13px;
+}
+
+.reject-form form {
+    margin: 0px !important;
+    width: 100%;
+    border: 0px;
+    padding: 10px 0px 10px 0px;    
+}
+
+.reject-form form label {
+    display: inline-block;
+}
+
+.reject-form form input {
+    margin-bottom: 10px;
+}
+
+.reject-form form input#name {
+    width: 387px; 
+    margin-left: 69px;
+}
+
+.reject-form form .from-date-label {
+    display: inline-block;  
+    margin-left: 10px; 
+    width: 92px;
+}
+
+.reject-form form .from-date {
+    display: inline-block; 
+    width: 92px; 
+    margin-left: 10px;
+}
+
+.reject-form form .to-date-label {
+    display: inline-block; 
+    margin-left: 81px; 
+    width: 92px;
+}
+
+.reject-form form .to-date {
+    display: inline-block; 
+    width: 92px; 
+    margin-left: 10px;
+}
+
+.reject-form form .comment-label {
+    display: inherit;
+    padding-top: 7px;
+}
+
+.reject-form form .comment {
+    width: 390px;
+    margin-left: 114px;
+    margin-top: -7px;
+}
+
+.reject-form form .reject-comment-label {
+    display: block;
+    font-weight: bold;
+}
+
+.reject-form form .reject-comment {
+    display: block;
+    width: 498px;
+    margin-top: 19px;
+    margin-left: 6px;    
+}
+
+.reject-form form .input-disabled {
+    background: rgb(235, 235, 228);
+}
+
+.hidden {
+	display: none;
+}
+
+.leave-summary-liue-leave {
+	display: inline-flex; 
+	height: 20px; 
+	vertical-align: middle;
+}
+
+.dropdown-role{
+
+    margin-left: -115px;
+    margin-top: 15px;
+}
+.viewProjecttd{
+    width: 180px;
+}
+
+.viewProjectDive{
+    margin-left: 25px
+}
+.viewButton{
+    background-color: #5A9BDE;
+    color: white;
+    width: 130px;
+    height: 25px;
+    border-color: #B5AFAF;
+    border-radius: 2px;
+    border-style: inherit;
+}
+.deleteEmployee{
+    margin-top: -17px;
+    margin-left: 30px;
+}
+.employee-role{
+    margin-top: -30px;
+    margin-left: 173px;
+}
+.testclass{
+    width: 160px;
+    height: 23px;
+}
+.deleteImg{
+    width: 22px;
+    margin-top: 20px;
+    margin-left: -10px;
+}
+.searchClass {
+    margin-left: 4px;
+    margin-top: 15px;
+    width: 400px;
+    height: 25px;
+}
+#buttonId {
+    width: 180px;
+    height: 35px;
+}
+#hrtag{
+    margin-top: 24px;
+}
+#ul_id{
+    margin-top: 10px;
+}
+.addButton{
+    width: 80px;
+    height: 28px;
+    background-color: #3768B3;
+    color: white;
+    border-style: hidden;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+
+
